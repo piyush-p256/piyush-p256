@@ -29,7 +29,6 @@
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=django" />
   <img src="https://skillicons.dev/icons?i=unity" />
-  <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=java" />
@@ -62,17 +61,15 @@
 
 <div class="grid grid-cols-3 justify-center gap-4">
 
-  <a href="mailto:piyush.patel@example.com">
+  <a href="mailto:piyushpatel2562004@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://www.linkedin.com/in/piyush-patel/">
+  <a href="[https://www.linkedin.com/in/piyush-patel/](https://www.linkedin.com/in/piyush-patel-679702263/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="https://your-portfolio-link.com">
-    <img src="https://skillicons.dev/icons?i=portfolio" />
-  </a>
+
 
 </div>
 
