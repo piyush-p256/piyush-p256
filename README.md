@@ -6,9 +6,9 @@
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=PiyushPatel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=piyush-p256&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-  <img src="https://img.shields.io/github/followers/PiyushPatel?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/followers/piyush-p256?label=Followers&style=social" alt="followers" />
 
 </p>
 
@@ -43,17 +43,17 @@
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=PiyushPatel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Piyush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush-p256&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Piyush's GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushPatel&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-p256&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
 
 </div>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushPatel&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Piyush's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-p256&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Piyush's GitHub Streak" />
 
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushPatel&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-p256&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
@@ -61,15 +61,17 @@
 
 <div class="grid grid-cols-3 justify-center gap-4">
 
-  <a href="mailto:piyushpatel2562004@gmail.com">
+  <a href="mailto:piyushpatel2562004@egmail.com.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="[https://www.linkedin.com/in/piyush-patel/](https://www.linkedin.com/in/piyush-patel-679702263/)">
+  <a href="https://www.linkedin.com/in/piyush-patel-679702263/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-
+  <a href="https://your-portfolio-link.com">
+    <img src="https://skillicons.dev/icons?i=portfolio" />
+  </a>
 
 </div>
 
